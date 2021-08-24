@@ -1,1 +1,1 @@
-# room-automation-
+room-automation-Room automation allows you to add smart lighting to your system so that you can be able to monitor and control your home's lighting from an app on your smartphone. It can even detect if amount of light is less then the bulb automatically glow and if there is sufficient light then the bulb wouldn’t glow.
